@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847990650820",
+    "project_id": "grouptour-17d37",
+    "storage_bucket": "grouptour-17d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847990650820:android:cbefc1518d60c9751ad691",
+        "android_client_info": {
+          "package_name": "com.groupfive.grouptour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847990650820-t2jpn1gl6c2i7b56cbeubpl7j02pducv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALd5GNEh3aEFAl53xlXQ4-rM1A6iTYxhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847990650820-t2jpn1gl6c2i7b56cbeubpl7j02pducv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
