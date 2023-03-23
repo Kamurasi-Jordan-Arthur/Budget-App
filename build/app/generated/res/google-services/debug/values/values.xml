@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">847990650820-t2jpn1gl6c2i7b56cbeubpl7j02pducv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">847990650820</string>
+    <string name="google_api_key" translatable="false">AIzaSyALd5GNEh3aEFAl53xlXQ4-rM1A6iTYxhY</string>
+    <string name="google_app_id" translatable="false">1:847990650820:android:cbefc1518d60c9751ad691</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyALd5GNEh3aEFAl53xlXQ4-rM1A6iTYxhY</string>
+    <string name="google_storage_bucket" translatable="false">grouptour-17d37.appspot.com</string>
+    <string name="project_id" translatable="false">grouptour-17d37</string>
+</resources>

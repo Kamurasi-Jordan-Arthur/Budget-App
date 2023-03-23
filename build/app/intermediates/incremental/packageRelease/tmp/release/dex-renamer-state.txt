@@ -1,0 +1,4 @@
+#Thu Oct 13 12:01:46 EAT 2022
+base.0=C\:\\Users\\DELL\\App Projects\\dart projects\\tour-uganda\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
